@@ -19,3 +19,12 @@ Currently implemented:
 * distance sensor (IR Led + photodiode)
 * Light sensor
 * relay output (uses external 2-channel relay block)
+
+
+To Do:
+==========
+
+* XBee support
+* Temperature sensor
+* Humidity Sensor (DHT unit)
+* NodeJS server
