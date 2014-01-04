@@ -11,6 +11,9 @@ Features:
 * RGB Led with current status (red : off, yellow: boiler standby, red: boiler on)
 * Ambient light sensor
 * Infrared distance sensor, used for activating LCD backlight when user's hand is near.
+* Remote control via Xbee
+* * Reports current status (temperature, humidity, light level and other parameters)
+* * Accepts commands (toggle state, set temperature)
 
 
 Arduino sketch
